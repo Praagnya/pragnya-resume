@@ -1,0 +1,59 @@
+- company: Deep Target NLP Research Group
+  roles:
+    - role: Graduate Research Assistant
+      details: |
+        Developing agentic RAG systems that integrate information from diverse sources (web, PubMed, podcasts etc) to reduce
+        hallucination and provide factually grounded response for health literacy.
+      date: August 2025 - Present
+
+- company: Cognitive AI Lab
+  roles:
+    - role: Summer Research Assistant
+      details: |
+        Developed an LLM-orchestrated pipeline that clones OSS repos, classifies files, and auto-generates runnable code examples
+        executed in cloud-container with iterative self-debugging and LLM-as-judge validation, producing reproducible artifacts,
+        logs, and cost telemetry.
+
+        Designed and implemented a CodeRAG for scientific claims that ranks/reranks repos via embeddings + LLM, assembles
+        targeted context, executes code, and evaluates outcomes programmatically, enabling automated claim verification.
+
+        Built a containerized execution framework that spins up sandboxed environments, automates dependency installation,
+        clones repos, and captures stdout/stderr/pip logs; parallelized workloads with threading to improve throughput.
+      date: June 2025 - August 2025
+
+- company: ACT Lab, University of Arizona
+  roles:
+    - role: Student Researcher
+      details: |
+        Developed MARRV (Multi-Agent Reflective Reasoning with Verifiable Rewards), a novel framework combining
+        Chain-of-Rubrics LLM evaluation with Reflexion feedback loops, improving multi-step mathematical reasoning and
+        reward-aligned decision making in transformer-based agents.
+
+        Re-engineered a published Symbolic Deep Reinforcement Learning (SDRL) framework by refactoring its Montezuma's
+        Revenge implementation into a modular, scalable neuro-symbolic architecture, upgrading from Python 2 + TensorFlow to
+        Python 3.9 + PyTorch to enable reproducibility and integration with deep RL workflows.
+      date: Jan 2025 - June 2025
+
+- company: Integral Ad Science
+  page: 2
+  roles:
+    - role: Data Analyst – Data Science Team
+      details: |
+        Built a real-time analytics pipeline using Apache Kafka and 50TB+ Amazon S3 Storage, enabling page-level brand safety
+        classification using content metadata and NLP signals aligned with the GARM category taxonomy.
+
+        Collaborated with Fraud Team to improve IVT (Invalid Traffic) detection accuracy by 18%, enabling cross-channel
+        expansion via cross-device signal aggregation, time-series drift handling, and automated retraining workflows.
+
+        Improved ad performance by 12–15% CTR uplift through content-matched inventory curation, semantic scoring, and brand
+        suitability filtering.
+
+        Developed more than 50 custom audience segments for brand targeting based on fraud scores, context, and user behavior,
+        enhancing the precision of the ad by 15%.
+
+        Collaborated with the Threat Lab team to detect zero-day fraud patterns through unsupervised clustering, graph-based
+        anomaly detection, and human-in-the-loop validation.
+
+        Supported incident response by resolving 30+ model scoring issues, using prediction logs and confidence thresholds to
+        identify root causes, and initiating retraining workflows via MLflow and automated CI/CD triggers.
+      date: July 2021 - May 2024

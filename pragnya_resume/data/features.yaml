@@ -1,0 +1,80 @@
+about:
+  name: Pragnya Narasimha
+  tagline: Data Scientist
+  phone: "+1 5208340390"
+  email: pnarasimha@arizona.edu
+  links:
+    - title: /in/mertbakir
+      url: https://tr.linkedin.com/in/mertbakir
+      icon: fab fa-linkedin
+    - title: mertbakir
+      url: https://gitlab.com/mertbakir/
+      icon: fab fa-gitlab
+    - title: mertbakir
+      url: https://github.com/mertbakir
+      icon: fab fa-github
+  details: |
+    Data Scientice graduate student with hands-on experience in product analytics and building data solutions using SQL, Python, and R. Developed
+    real-time analytics pipelines and automated data processes to drive business growth while ensuring high-quality insights. Proven ability
+    to design and implement advanced analytical models with a focus on scalability and reproducibility.
+
+skills:
+  - groupName: Programming Languages
+    list:
+      - Python - R - Java - Javascript
+      - SQL - NoSQL - HTML - CSS
+
+  - groupName: Technologies
+    list:
+      - PyTorch - TensorFlow - Scikit-learn - Keras
+      - Seaborn - Numpy - Pandas - Transformers
+      - Matplotlib - OpenCV - Git - Docker
+      - Kubernetes - Jenkins - Spark - Hadoop
+      - LangChain - Modal - FAISS
+      - MongoDB - MySQL - Redis - GCP - AWS
+
+  - groupName: Core Skills
+    list:
+      - Machine Learning - Deep Learning
+      - Natural Language Processing (NLP)
+      - Data Science - Big Data - LLMs - Prompting
+
+interests:
+  - Data Science
+  - AI Applications
+  - Optimization Problems
+
+languages:
+  - name: Turkish
+    level: Native
+
+  - name: English
+    level: Professional
+    certificates:
+      - "YDS: 86.25 - 2018"
+      - "TOEFL: 109 - 2021"
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Certified Data Scientist"
+    subtitle: International Association of Business Analytics Certifications (IABAC)
+
+  - title: "Neural Networks and Deep Learning"
+    subtitle: deeplearning.ai (Coursera)

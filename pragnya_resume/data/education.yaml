@@ -1,0 +1,20 @@
+- name: Master's in Data Science
+  university: University of Arizona
+  date: 2024 - Present
+  gpa: 4.0 / 4.0
+  details: >
+    Courses: Neural Networks, SQL/NoSQL Databases, Data Ethics, Data Mining, Data Analysis & Visualization,
+    Cloud Computing, Applied NLP
+
+- name: PGP in Artificial Intelligence and Machine Learning
+  university: University of Texas at Austin
+  date: 2020 - 2021
+  gpa: 92%
+  details: >
+    Courses: Python, Statistics, Supervised Learning, Ensembles, Unsupervised Learning, Feature Engg & Tuning,
+    Recommender Systems, Neural Networks, CV, NLP
+
+- name: B.E. in Mechanical Engineering
+  university: Vidyavardhaka College of Engineering
+  date: 2015 - 2019
+  gpa: 7.6 / 10

@@ -1,0 +1,27 @@
+projects:
+- title: "Meta-Math Agent"
+  link: "https://github.com/Praagnya/MetaMathAgent"
+  details: |
+    Designed a modular multi-agent LLM framework for solving math problems using planner-solver verifier decomposition, memory cache and reflection-enhanced self-verification to improve reasoning accuracy.
+  links:
+  - title: GitHub
+    url: https://github.com/Praagnya/MetaMathAgent
+    icon: fab fa-github
+
+- title: "Global Agricultural Intelligence Platform"
+  link: "https://github.com/Praagnya/Global-Trends-in-Agriculture-Crops-and-Livestock"
+  details: |
+    Developed interactive data visualizations for over 200 countries using R, Quarto, ggplot2, Leaflet to analyze global crop and livestock trends, supporting agricultural policy analytics and geospatial pattern recognition.
+  links:
+  - title: GitHub
+    url: https://github.com/Praagnya/Global-Trends-in-Agriculture-Crops-and-Livestock
+    icon: fab fa-github
+
+- title: "LLM-Powered Job Automation System"
+  link: "https://github.com/Praagnya/Automated-CL-Generator-for-LinkedIn-Jobs"
+  details: |
+    Automated LinkedIn job applications using an LLM-driven cover letter generator with dynamic profile scraping via Selenium and templated prompt engineering, reducing manual effort by over 90%.
+  links:
+  - title: GitHub
+    url: https://github.com/Praagnya/Automated-CL-Generator-for-LinkedIn-Jobs
+    icon: fab fa-github
